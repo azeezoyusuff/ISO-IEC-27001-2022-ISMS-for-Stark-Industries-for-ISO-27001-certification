@@ -24,4 +24,8 @@ As a Cyber Security GRC Analyst, I was tasked to build an ISMS, from start to fi
 
 ## What I Delivered:
 
-### 1. 
+### 1. ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability.
+
+
+
+### 2. Created   T  WELVE (12) core security policies & procedures required for ISO 27001 certification
