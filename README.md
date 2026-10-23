@@ -24,8 +24,12 @@ As a Cyber Security GRC Analyst, I was tasked to build an ISMS, from start to fi
 
 ## What I Delivered:
 
-### 1. ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability.
+###### 1. ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability.
 
+[Visit the Project Link here for Clause 4 to 10 and other required document](https://github.com/azeezoyusuff/ISO-IEC-27001-2022-ISMS-for-Stark-Industries-for-ISO-27001-certification/tree/main/Full_ISMS_And_ISO_27001_Certification_Stark_Industries)
 
+###### 2. Created   TWELVE (12) core security policies & procedures required for ISO 27001 certification
 
-### 2. Created   T  WELVE (12) core security policies & procedures required for ISO 27001 certification
+[Visit the Project Link here for all the core security document](https://github.com/azeezoyusuff/ISO-IEC-27001-2022-ISMS-for-Stark-Industries-for-ISO-27001-certification/tree/main/Full_ISMS_And_ISO_27001_Certification_Stark_Industries)
+
+###### 3. This resulted to ISO27001 certification achievement and increased sales by 55% and customer trust by 29%
