@@ -24,33 +24,33 @@ As a Cyber Security GRC Analyst, I was tasked to build an ISMS, from start to fi
 
 ## What I Delivered:
 
-| Matching ISO 27001 Clause/Annex A | Delivrables | 
+| Matching ISO/IEC 27001:2022 Clause/Annex A | Delivrables | 
 | -------------------------| ------------| 
-| Clause 4                 | ISMS Scope  | 
-|  Clause 5.2              | ISMS Policy | 
-|  Clause 5.3              | ISMS Roles & Responsibilities | 
-|  Clause 6.1.2            | Risk Assessment Process  | 
-|  Clause 6.1.3            | Risk Treatment Process | 
-|  Clause 6.2              | ISMS Objectives        |    
-|Clause 6.1.3              | Asset Register, Risk Assessment & Statement of Applicability |
-| Clause 7                 | Competence Management & Awareness Record |
-| Clause 8                 | Control Evidence Tracker |
-| Clause 9                 | Management Meeting Agenda & Minutes |
-| Clause 9.1               | Monitoring, Measurement, Analysis and Evaluation Procedures |
-| Clause 9.2               | Internal Audit Plan |
-| Clause 9.3               | Management Review Procedure |
-| Clause 10.2              | Non-Conformity Log         |
-| Clause 6 Ref: Annex 5.9, 5.10, 5.12, 5.15, 8.2,8.3,8.10 & 8.12 | Asset Management & Data Classification Policy |
-| Clause 6 Ref: Annex 5.15 | Acceptable Use Policy |
-| Clause 6 Ref: Annex 5.3 & 5.16 | Access Control Policy | 
-|  Clause 6 Ref: Annex 5.32 & 5.33 |  Business Continuity & Disaster Recovery Policy |  
-| Clause 6 Ref: Annex 8.24 - 8.26  | Cryptography Policy |
-| Clause 6 Ref: Annex 8.10 - 8.12  | Data Retention & Disposal Policy |
-| Clause 6 Ref: Annex 5.28 - 5.31  | Incident Management Policy |
-| Clause 6 Ref: Annex 8.15 - 8.17 | Monitoring & Logging Policy |
-
-
-
+| ISO/IEC 27001:2022 Clause 4                 | ISMS Scope  | 
+| ISO/IEC 27001:2022 Clause 5.2              | ISMS Policy | 
+| ISO/IEC 27001:2022 Clause 5.3              | ISMS Roles & Responsibilities | 
+| ISO/IEC 27001:2022 Clause 6.1.2            | Risk Assessment Process  | 
+| ISO/IEC 27001:2022 Clause 6.1.3            | Risk Treatment Process | 
+| ISO/IEC 27001:2022 Clause 6.2              | ISMS Objectives        |    
+| ISO/IEC 27001:2022 Clause 6.1.3              | Asset Register, Risk Assessment & Statement of Applicability |
+| ISO/IEC 27001:2022 Clause 7                 | Competence Management & Awareness Record |
+| ISO/IEC 27001:2022 Clause 8                 | Control Evidence Tracker |
+| ISO/IEC 27001:2022 Clause 9                 | Management Meeting Agenda & Minutes |
+| ISO/IEC 27001:2022 Clause 9.1               | Monitoring, Measurement, Analysis and Evaluation Procedures |
+| ISO/IEC 27001:2022 Clause 9.2               | Internal Audit Plan |
+| ISO/IEC 27001:2022 Clause 9.3               | Management Review Procedure |
+| ISO/IEC 27001:2022 Clause 10.2              | Non-Conformity Log         |
+| ISO/IEC 27001:2022 Ref: Annex 5.9, 5.10, 5.12, 5.15, 8.2,8.3,8.10 & 8.12 | Asset Management & Data Classification Policy |
+| ISO/IEC 27001:2022  Ref: Annex 5.15 | Acceptable Use Policy |
+| ISO/IEC 27001:2022 Ref: Annex 5.3 & 5.16 | Access Control Policy | 
+|  ISO/IEC 27001:2022 Ref: Annex 5.32 & 5.33 |  Business Continuity & Disaster Recovery Policy |  
+| ISO/IEC 27001:2022 Ref: Annex 8.24 - 8.26  | Cryptography Policy |
+| ISO/IEC 27001:2022  Ref: Annex 8.10 - 8.12  | Data Retention & Disposal Policy |
+| ISO/IEC 27001:2022 Ref: Annex 5.28 - 5.31  | Incident Management Policy |
+| ISO/IEC 27001:2022 Ref: Annex 8.15 - 8.17 | Monitoring & Logging Policy |
+| ISO/IEC 27001:2022 Ref: Annex 8.25 - 8.29 | Secure Data Life Cycle (SDLC) Policy |
+| ISO/IEC 27001:2022 Ref: Annex 5.19 - 5.22 | Supplier & Vendor Management Policy | 
+| ISO/IEC 27001:2022 Ref: Annex 6.3 - 6.5 | Training & Awareness Policy | 
 
 ###### 1. ISO 27001 Clause 4 to 10, Asset and Risk Registers, Risk Assessments and Treatment, Control Assessment, the Statement of Applicability.
 
