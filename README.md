@@ -24,7 +24,7 @@ As a Cyber Security GRC Analyst, I was tasked to build an ISMS, from start to fi
 
 ## What I Delivered:
 
-| Matching ISO/IEC 27001:2022 Clause/Annex A | Delivrables | 
+| Matching ISO/IEC 27001:2022 Clause/Annex A | Deliverables | 
 | -------------------------| ------------| 
 | ISO/IEC 27001:2022 Clause 4                 | ISMS Scope  | 
 | ISO/IEC 27001:2022 Clause 5.2              | ISMS Policy | 
