@@ -56,7 +56,7 @@ As a Cyber Security GRC Analyst, I was tasked to build an ISMS, from start to fi
 
 [Visit the Project Link here for Clause 4 to 10 and other required document](https://github.com/azeezoyusuff/ISO-IEC-27001-2022-ISMS-for-Stark-Industries-for-ISO-27001-certification/tree/main/Full_ISMS_And_ISO_27001_Certification_Stark_Industries)
 
-###### 2. Created   TWELVE (12) core security policies & procedures required for ISO 27001 certification
+###### 2. Created All core security policies & procedures required for ISO 27001 certification
 
 [Visit the Project Link here for all the core security document](https://github.com/azeezoyusuff/ISO-IEC-27001-2022-ISMS-for-Stark-Industries-for-ISO-27001-certification/tree/main/Full_ISMS_And_ISO_27001_Certification_Stark_Industries)
 
