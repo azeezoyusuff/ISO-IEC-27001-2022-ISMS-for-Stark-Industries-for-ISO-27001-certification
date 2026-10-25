@@ -57,5 +57,6 @@ As a Cyber Security GRC Analyst, I was tasked to build an ISMS, from start to fi
 
 [Visit the Project Link here for all the above-mentioned deliverables](https://github.com/azeezoyusuff/ISO-IEC-27001-2022-ISMS-for-Stark-Industries-for-ISO-27001-certification/tree/main/Full_ISMS_And_ISO_27001_Certification_Stark_Industries)
 
+## Achievement
 
-###### 2. This resulted to ISO27001 certification achievement and increased sales by 55% and customer trust by 29%
+###### 1. This resulted to ISO27001 certification achievement and increased sales by 55% and customer trust by 29%
