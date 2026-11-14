@@ -16,7 +16,7 @@ As a Cyber Security GRC Analyst, I was tasked to build an ISMS, from start to fi
 
 | Item | Information |
 | -----| ----------- |
-| Sector | Stoftware Company - SaaS |
+| Sector | Software Company - SaaS |
 | Location | New York City, New York | 
 |  Product | A SaaS platform offering marketing automation tools for small businesses. The application is hosted on Amazon AWS |
 | Scope    |  The development, deployment, and management of the Stark Industries platform |
